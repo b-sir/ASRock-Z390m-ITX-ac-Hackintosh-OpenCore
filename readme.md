@@ -7,4 +7,5 @@
 
 
 # OpenCore
-- OpenCore 0.5.9
+- OpenCore 0.6.1
+- OSX 10.15.6
